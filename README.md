@@ -37,3 +37,7 @@ No dedicated power supply is needed, all necessary power is supplied via the CR2
 Please note that if you have a cheaper shipping option I'm gladly using it and refunding you the difference. The item still is a prototype. It is working as intended, but funny quirks and other things are possible. It is not certified and only suited for prototyping. 
 
 If you have any questions, just shoot me a message!
+
+#### What makes this one open? 
+
+The full board and production files are provided, you can edit in kicad, get it mass produced, whatever you want.

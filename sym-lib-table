@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name 105450-0101)(type Legacy)(uri ${KIPRJMOD}/105450-0101.lib)(options "")(descr ""))
+  (lib (name BAT-HLD-001-TR)(type Legacy)(uri ${KIPRJMOD}/BAT-HLD-001-TR.lib)(options "")(descr ""))
+)

@@ -41,3 +41,4 @@ If you have any questions, just shoot me a message!
 #### What makes this one open? 
 
 The full board and production files are provided, you can edit in kicad, get it mass produced, whatever you want.
+Massive thanks to Hank for making this possible with his insane skills in kicad!
